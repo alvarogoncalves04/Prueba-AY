@@ -136,3 +136,7 @@ st.plotly_chart(fig6, use_container_width=True)
 #3. Vista de datos crudos 
 st.subheader("Vista de Datos Crudos")
 st.dataframe(df_filtrado) 
+
+st.markdown("---")
+st.markdown("Desarrollado por [Alvaro Goncalves] - Análisis de datos de MLB")
+# --- Fin del código ---
